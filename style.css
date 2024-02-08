@@ -1,0 +1,71 @@
+p {}
+#Zorro {
+  	text-align: left;
+  	color: palevioletred;
+    font: 15px cursive
+  
+}
+#Goose {
+  	text-align: right;
+    color: skyblue;
+ background-color: pink;
+  border: 5px double lightblue;
+  Font: bold 20px arial
+   
+}
+#Luna {
+  	text-align: center;
+    color: plum;
+  font: italic small-caps bold 12px/30px Georgia, serif; 
+  border: 6px groove 
+}
+#Mischief {
+  	text-align: center;
+  	color: olivedrab;
+  Font: italic 36px papyrus;
+  width: 76%
+}
+#Kiska {
+  	text-align: left;
+  	color: palegoldenrod;
+  background-color: orange;
+  font: Bold small-caps 16px times new roman;
+  border: 5px solid darkcyan
+  
+}
+#Harry {
+  	text-align: center;
+  	color: mediumseagreen;
+    font: 35px monospace;
+}
+#title {
+  	text-align: center;
+  	color: orangered;
+    font-size: 100px;
+  border: 10px dotted cadetblue
+}
+#jokebooks {
+  font: small-caps 15px Palatino ;
+  width: 70%;
+  color: firebrick
+}
+
+#jokebooks td, #jokebooks th {
+  border: 1px groove saddlebrown;
+  padding: 8px;
+}
+
+#jokebooks tr:nth-child(even){background-color: linen;}
+
+#jokebooks tr:hover {background-color: lightsalmon;}
+
+#jokebooks th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: maroon;
+  color: crimson;
+  font: bold 15px optima
+}
+</style>
+</head>
